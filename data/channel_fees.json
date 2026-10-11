@@ -1,0 +1,30 @@
+{
+  "amazon": {
+    "commission_pct": 17.0,
+    "fixed_fee": 25,
+    "shipping_per_unit": 65,
+    "payment_fee_pct": 0.0,
+    "return_handling": 120
+  },
+  "flipkart": {
+    "commission_pct": 15.0,
+    "fixed_fee": 20,
+    "shipping_per_unit": 60,
+    "payment_fee_pct": 0.0,
+    "return_handling": 110
+  },
+  "website": {
+    "commission_pct": 0.0,
+    "fixed_fee": 0,
+    "shipping_per_unit": 55,
+    "payment_fee_pct": 2.0,
+    "return_handling": 90
+  },
+  "ondc": {
+    "commission_pct": 5.0,
+    "fixed_fee": 5,
+    "shipping_per_unit": 58,
+    "payment_fee_pct": 1.0,
+    "return_handling": 90
+  }
+}
